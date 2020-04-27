@@ -10,5 +10,5 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferen
 mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-
 553. ISSN: 0167-9236.
 
-## 3 Part 2
+## Part 2
 Data preprocessing and Classification Algorthms
